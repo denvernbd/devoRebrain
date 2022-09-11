@@ -2,7 +2,7 @@
 
 В данном репозитории находится **дефолтный** конфигурационный файл **nginx**
 
-![nginx logo](https://www.logo.wine/logo/Nginx)
+![nginx logo](./nginx-logo.png)
 
 
 
